@@ -1,0 +1,1 @@
+cscript Equity.vbs -Refresh

@@ -1,0 +1,8 @@
+$FORMAT Ticker, Skip, Open, High, Low, Close, Skip, Skip, Volume, Skip, Date_DMY, Skip
+$SKIPLINES 1
+$SEPARATOR ,
+$CONT 1
+$GROUP 255
+$AUTOADD 1
+$DEBUG 1
+
